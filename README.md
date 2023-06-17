@@ -5,7 +5,7 @@
 [自学网站](https://reader.tutors.dev/course/wit-hdip-comp-sci-2018)
 
 
-
+目标：设计一个时钟驱动的CPU和内存的电路。
 数字电路：
 
 [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)
