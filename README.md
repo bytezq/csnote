@@ -2,6 +2,7 @@
 计算机学习笔记整理。
 
 [计算机自学指南](https://csdiy.wiki/)
+[自学网站](https://reader.tutors.dev/course/wit-hdip-comp-sci-2018)
 
 
 
