@@ -7,7 +7,7 @@
 
 目标：设计一个时钟驱动的CPU和内存的电路。
 数字电路：
-
+Verilog学习
 [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)
 
 
