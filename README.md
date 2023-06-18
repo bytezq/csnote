@@ -9,7 +9,7 @@
 数字电路：
 Verilog学习
 [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)
-
+[简单的CPU设计实践](https://lianera.github.io/post/2014/cpu-step-by-step/)
 
 
 操作系统：
