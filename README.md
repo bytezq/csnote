@@ -10,8 +10,8 @@
 Verilog学习  
 [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)   
 [简单的CPU设计实践](https://lianera.github.io/post/2014/cpu-step-by-step/)   
-
-
+[为什么用时序电路实现CPU](https://www.cnblogs.com/niuyourou/p/12075634.html)
+[从0到1设计计算机](https://zhuanlan.zhihu.com/p/581959814) [视频](https://www.bilibili.com/video/BV1wi4y157D3/)
 操作系统：
 
 南京大学-蒋炎岩-操作系统 [Wiki](https://jyywiki.cn/) [bilibili在线视频](https://www.bilibili.com/video/BV1Xx4y1V7JZ)
