@@ -43,6 +43,8 @@ Verilog学习  [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)
 [动手深度学习](https://zh.d2l.ai/)  
 
 线性代数
+[Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+
 微积分
 概率论
 西瓜书
