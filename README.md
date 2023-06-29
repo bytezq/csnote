@@ -44,6 +44,10 @@ Verilog学习  [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)
 
 线性代数
 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+陈希孺《概率论与数理统计》《数理统计学教程》《数理统计学简史》
+龚昇《简明微积分》
+居余马《大学数学:代数与几何(第二版)》
+梅加强《数学分析》
 
 微积分
 概率论
