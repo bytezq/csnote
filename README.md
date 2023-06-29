@@ -38,8 +38,15 @@ Verilog学习  [中科大-数字电路](https://vlab.ustc.edu.cn/guide/)
 [CSAPP] Randal E. Bryant and David R. O'Hallaron. *Computer Systems: A Programmer's Perspective* (3ed). Pearson, 2017.
 
 
+人工智能：
+[台大机器学习技法](https://github.com/RedstoneWill/HsuanTienLin_MachineLearning)  
+[动手深度学习](https://zh.d2l.ai/)  
 
-
+线性代数
+微积分
+概率论
+西瓜书
+花书
 
 计算机网络：
 
